@@ -48,7 +48,7 @@ The repository includes a **Makefile** to simplify installation, rebuilding, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mik-tf/mdtodocu.git
+   git clone https://github.com/ucli-tools/mdtodocu.git
    cd mdtodocu
    ```
 
